@@ -1,4 +1,4 @@
 some:
-  property: coffee
+  property: coffee 2
   other:
-    property: is good
+    property: is good 2
