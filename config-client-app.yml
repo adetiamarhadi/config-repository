@@ -1,2 +1,4 @@
 some:
-  property: app specific overriden value
+  property: coffee
+  other:
+    property: is good
